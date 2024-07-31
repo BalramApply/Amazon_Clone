@@ -20,7 +20,6 @@ A clone of Amazon's e-commerce website built using HTML and CSS.
 - [📑 Features](#-features)
 - [🔧 Technologies](#-technologies)
 - [⚙️ Installation](#-installation)
-- [🚀 Usage](#-usage)
 - [📸 Screenshots](#-screenshots)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
